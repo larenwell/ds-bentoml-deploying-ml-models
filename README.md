@@ -3,7 +3,6 @@ This repository contains information about deploying of machine learning models 
 https://www.bentoml.com/
 
 I elaborates different frameworks depending on the type of BentoML service
-
-Pytorch
-Sklearn (input:Json,Dataframe)
-Tensorflow
+- Pytorch
+- Sklearn (input:Json,Dataframe)
+- Tensorflow
